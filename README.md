@@ -1,2 +1,4 @@
-# DE_KitaBisa
-DE pre assessment
+# Web Scrapping Python
+
+
+Training Web Scrapping Python and Zendesk API Scrapping for ticketing
